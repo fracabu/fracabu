@@ -1,6 +1,4 @@
 ### Hi there 👋
-![ginocchio 2](https://user-images.githubusercontent.com/100199965/232255136-b804763f-e769-48f3-91f2-58be77aa046d.jpg)
-
 <!--
 **fracabu/fracabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

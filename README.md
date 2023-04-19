@@ -6,9 +6,9 @@
 <div/>
 
 ### Hi there 👋
-- 📫 How to reach me:  https://www.linkedin.com/in/francesco-~-capurso-5801031a9/
-                       fracabu@gmail.com
-                       320/4933807
+- 📫 How to reach me:   - linkedin: https://www.linkedin.com/in/francesco-~-capurso-5801031a9/
+                        - mail:fracabu@gmail.com
+                         - cell:320/4933807
 <!--
 **fracabu/fracabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
-     - linkedin: https://www.linkedin.com/in/francesco-~-capurso-5801031a9/
-     - mail:fracabu@gmail.com
-     - cell:320/4933807
+    
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

@@ -44,17 +44,18 @@ Imparare non si ferma mai! Ecco su cosa sto lavorando:
 
 ### 📊 Le mie statistiche GitHub
 
-![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=il-tuo-username&show_icons=true&theme=dark)
+![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?fracabu=il-tuo-fracabu&show_icons=true&theme=dark)
 
 ---
 
 ### 📫 Dove trovarmi
 
-Se vuoi parlare di codice, machine learning o di come automatizzare tutto (o quasi), contattami qui:
+Se vuoi parlare di codice, machine learning, sintesi vocale o come automatizzare praticamente tutto (o almeno provarci), contattami qui:
 
-- 📫 How to reach me:   - linkedin: https://www.linkedin.com/in/francesco-~-capurso-5801031a9/
-                        - mail:fracabu@gmail.com
-                         - cell:320/4933807
+- **Email**: [il-tuo-email@example.com](mailto:fracabu@gmail.com)
+- **LinkedIn**: [Profilo LinkedIn](https://linkedin.com/in/francesco-~-capurso-5801031a9/)
+  
+
 
 ---
 

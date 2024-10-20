@@ -52,7 +52,7 @@ Imparare non si ferma mai! Ecco su cosa sto lavorando:
 
 Se vuoi parlare di codice, machine learning, sintesi vocale o come automatizzare praticamente tutto (o almeno provarci), contattami qui:
 
-- **Email**: [il-tuo-email@example.com](mailto:fracabu@gmail.com)
+- **Email**: fracabu@gmail.com
 - **LinkedIn**: [Profilo LinkedIn](https://linkedin.com/in/francesco-~-capurso-5801031a9/)
   
 

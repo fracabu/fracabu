@@ -3,23 +3,26 @@
 Ciao! Sono Francesco e se ami/odi il codice sei nel posto giusto! 🚀 Ho raggiunto **100 repository** e sto festeggiando questo traguardo con progetti folli, idee innovative e un bel po' di codice. ☕️
 
 ### 🌟 Chi sono io?
-Sono uno sviluppatore appassionato, sempre alla ricerca di nuove tecnologie e sfide. Recentemente, ho creato un **plugin per Fastify** che permette la **traduzione asincrona e la validazione delle traduzioni**, ma non mi fermo qui. Mi piace anche lavorare con **Python**, **Django**, **Flask**, e l'**intelligenza artificiale** per creare modelli predittivi e applicazioni interattive. Uno dei miei progetti più interessanti riguarda l'**addestramento di un modello di regressione lineare per prevedere la chiusura di una candela** nel trading e un progetto di **Text-to-Speech** che converte vari formati di testo in audio MP3.
+Sono uno sviluppatore appassionato, sempre alla ricerca di nuove tecnologie e sfide. Ho lavorato su vari progetti che spaziano dallo sviluppo di **plugin per Fastify** a sistemi di **machine learning** per la previsione dei segnali di trading, integrando tecnologie avanzate come **TensorFlow**, **MetaTrader 5**, e molto altro!
 
 ---
 
 ### 🔧 Tecnologie con cui mi piace "smanettare"
 
-Ecco le tecnologie che uso ogni giorno per dare vita alle mie idee (o tentare di farlo):
+Ecco le tecnologie che uso quotidianamente per dare vita alle mie idee (o tentare di farlo):
 
 - **Node.js & npm**: Ho creato un **plugin per Fastify** che mi ha salvato più volte. 👇
 - **Fastify**: Il framework web che rende le API super veloci! ⚡️ [Dai un'occhiata al mio plugin](https://github.com/fracabu/fastify-i18n-plugin).
 - **JavaScript**: A volte risolve i problemi, altre volte li crea, ma fa parte del gioco. 😅
 - **Python**: Il mio linguaggio preferito per automazione, machine learning e data science!
-- **Streamlit**: Perfetto per creare **dashboard interattive** e **visualizzazione dei dati** in Python. 📊
+- **TensorFlow & Keras**: Utilizzo **TensorFlow** per addestrare modelli di rete neurale per vari progetti di machine learning.
+- **MetaTrader 5 (MT5)**: Per creare sistemi di trading automatizzato e raccogliere dati di mercato in tempo reale.
+- **Flask**: Costruisco API REST per gestire operazioni di trading e machine learning.
+- **Scikit-learn**: Utilizzato per il preprocessing dei dati e per modelli di regressione lineare.
+- **Streamlit**: Perfetto per creare **dashboard interattive** e **visualizzazione dei dati** in Python. 📊 [Scopri un progetto qui](link-alla-repo-di-streamlit).
 - **Django & Flask**: Frameworks con cui ho costruito e servito applicazioni web robuste.
-- **Machine Learning & Regressione Lineare**: Ho addestrato un modello per prevedere la chiusura della candela in corso. 📈 .
-- **Text-to-Speech (gTTS)**: Ho creato uno script che converte **file di testo** (TXT, DOCX, PDF) in **audio MP3** utilizzando **gTTS** e Python. 🎙️ [Vedi il progetto qui]([link-al-progetto-text-to-speech](https://github.com/fracabu/TextToSpeechProject)).
-- **MQL5**: Quando il mercato chiama, rispondo con algoritmi di trading automatizzato. 📉📈
+- **Machine Learning & Regressione Lineare**: Ho addestrato modelli di previsione utilizzando tecniche avanzate di machine learning per vari scenari, tra cui il trading. 📈 [Vedi il progetto qui](link-al-progetto-di-prediction).
+- **Text-to-Speech (gTTS)**: Ho creato uno script che converte **file di testo** (TXT, DOCX, PDF) in **audio MP3** utilizzando **gTTS** e Python. 🎙️ [Vedi il progetto qui](link-al-progetto-text-to-speech).
 
 ---
 
@@ -28,9 +31,9 @@ Ecco le tecnologie che uso ogni giorno per dare vita alle mie idee (o tentare di
 Ecco alcuni dei progetti che mi rendono particolarmente orgoglioso:
 
 - **[Fastify-i18n-plugin](https://github.com/fracabu/fastify-i18n-plugin)**: Plugin per Fastify che aggiunge **supporto per traduzioni dinamiche e validazione delle traduzioni**. Indispensabile per chi gestisce un'app multi-lingua!
-- **[Previsione candela in corso con regressione lineare]**: Ho addestrato un modello di regressione lineare utilizzando **Python**, **Flask** e **Yellowbrick** per prevedere la chiusura della candela nel trading. Un passo verso l'IA applicata ai mercati finanziari. 🚀
-- **[Text-to-Speech Multi-Format Converter]([link-al-progetto-text-to-speech](https://github.com/fracabu/TextToSpeechProject))**: Ho creato uno script che converte file **TXT**, **PDF**, **DOCX** in audio **MP3** utilizzando **gTTS**. 🎧 Una soluzione pratica per creare contenuti audio da documenti scritti.
-- **[Data Visualization con Streamlit]**: Creare dashboard interattive non è mai stato così divertente con **Streamlit**. Dai un'occhiata al progetto e ai dati che ho visualizzato! 📊
+- **Sistemi di trading automatizzati**: Ho sviluppato due sistemi di trading automatizzati che utilizzano **indicatori tecnici** e **modelli di machine learning** per generare segnali di trading e gestire operazioni su **MetaTrader 5**. Questi sistemi sono progettati per operare in modo completamente autonomo, inviando **email** e **alert sonori** in base a condizioni di mercato precise. Uno dei sistemi utilizza un approccio basato su **previsioni con modelli di rete neurale**, mentre l'altro combina diverse strategie basate su **indicatori tecnici** come **TSI**, **Stocastico** e **ATR**. Puoi provarne uno gratuitamente [qui](https://www.mql5.com/it/market/product/122694?source=Site+Profile+Seller).
+- **[Previsione con machine learning](link-al-progetto-di-prediction)**: Ho sviluppato un modello di machine learning per la previsione di segnali basati su dati storici e indicatori tecnici.
+- **[Text-to-Speech Multi-Format Converter](link-al-progetto-text-to-speech)**: Ho creato uno script che converte file **TXT**, **PDF**, **DOCX** in audio **MP3** utilizzando **gTTS**. 🎧 Una soluzione pratica per creare contenuti audio da documenti scritti.
 
 ---
 
@@ -39,7 +42,7 @@ Ecco alcuni dei progetti che mi rendono particolarmente orgoglioso:
 Imparare non si ferma mai! Ecco su cosa sto lavorando:
 
 - **Flutter**: Per costruire app belle e funzionali.
-- **Modelli predittivi avanzati**: Sto esplorando nuovi metodi di machine learning per il trading e altre applicazioni.
+- **Modelli predittivi avanzati**: Sto esplorando nuovi metodi di machine learning per applicazioni varie, incluso il trading.
 - **Streamlit avanzato**: Per creare visualizzazioni di dati sempre più potenti e personalizzate.
 
 ---
@@ -62,3 +65,4 @@ Se vuoi parlare di codice, machine learning, sintesi vocale o come automatizzare
 Grazie per aver visitato il mio GitHub! 🎉 Spero che i miei progetti ti ispirino o almeno ti facciano sorridere (bug permettendo)! 😄
 
 ---
+

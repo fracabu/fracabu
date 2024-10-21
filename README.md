@@ -32,8 +32,8 @@ Ecco alcuni dei progetti che mi rendono particolarmente orgoglioso:
 
 - **[Fastify-i18n-plugin](https://github.com/fracabu/fastify-i18n-plugin)**: Plugin per Fastify che aggiunge **supporto per traduzioni dinamiche e validazione delle traduzioni**. Indispensabile per chi gestisce un'app multi-lingua!
 - **Sistemi di trading automatizzati**: Ho sviluppato due sistemi di trading automatizzati che utilizzano **indicatori tecnici** e **modelli di machine learning** per generare segnali di trading e gestire operazioni su **MetaTrader 5**. Questi sistemi sono progettati per operare in modo completamente autonomo, inviando **email** e **alert sonori** in base a condizioni di mercato precise. Uno dei sistemi utilizza un approccio basato su **previsioni con modelli di rete neurale**, mentre l'altro combina diverse strategie basate su **indicatori tecnici** come **TSI**, **Stocastico** e **ATR**. Puoi provarne uno gratuitamente [qui](https://www.mql5.com/it/market/product/122694?source=Site+Profile+Seller).
-- **[Previsione con machine learning](link-al-progetto-di-prediction)**: Ho sviluppato un modello di machine learning per la previsione di segnali basati su dati storici e indicatori tecnici.
-- **[Text-to-Speech Multi-Format Converter]([link-al-progetto-text-to-speech](https://github.com/fracabu/TextToSpeechProject))**: Ho creato uno script che converte file **TXT**, **PDF**, **DOCX** in audio **MP3** utilizzando **gTTS**. 🎧 Una soluzione pratica per creare contenuti audio da documenti scritti.
+- **Previsione con machine learning**: Ho sviluppato un modello di machine learning per la previsione di segnali basati su dati storici e indicatori tecnici.
+- **[Text-to-Speech Multi-Format Converter]([[link-al-progetto-text-to-speech](https://github.com/fracabu/TextToSpeechProject)]**: Ho creato uno script che converte file **TXT**, **PDF**, **DOCX** in audio **MP3** utilizzando **gTTS**. 🎧 Una soluzione pratica per creare contenuti audio da documenti scritti.
 
 ---
 

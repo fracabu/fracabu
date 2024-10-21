@@ -19,9 +19,9 @@ Ecco le tecnologie che uso quotidianamente per dare vita alle mie idee (o tentar
 - **MetaTrader 5 (MT5)**: Per creare sistemi di trading automatizzato e raccogliere dati di mercato in tempo reale.
 - **Flask**: Costruisco API REST per gestire operazioni di trading e machine learning.
 - **Scikit-learn**: Utilizzato per il preprocessing dei dati e per modelli di regressione lineare.
-- **Streamlit**: Perfetto per creare **dashboard interattive** e **visualizzazione dei dati** in Python. 📊 [Scopri un progetto qui](link-alla-repo-di-streamlit).
+- **Streamlit**: Perfetto per creare **dashboard interattive** e **visualizzazione dei dati** in Python. 📊 .
 - **Django & Flask**: Frameworks con cui ho costruito e servito applicazioni web robuste.
-- **Machine Learning & Regressione Lineare**: Ho addestrato modelli di previsione utilizzando tecniche avanzate di machine learning per vari scenari, tra cui il trading. 📈 [Vedi il progetto qui](link-al-progetto-di-prediction).
+- **Machine Learning & Regressione Lineare**: Ho addestrato modelli di previsione utilizzando tecniche avanzate di machine learning per vari scenari, tra cui il trading. 📈.
 - **Text-to-Speech (gTTS)**: Ho creato uno script che converte **file di testo** (TXT, DOCX, PDF) in **audio MP3** utilizzando **gTTS** e Python. 🎙️ [Vedi il progetto qui](link-al-progetto-text-to-speech).
 
 ---

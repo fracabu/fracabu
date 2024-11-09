@@ -11,7 +11,7 @@ Sono uno sviluppatore appassionato, sempre alla ricerca di nuove tecnologie e sf
 
 Ecco le tecnologie che uso quotidianamente per dare vita alle mie idee (o tentare di farlo):
 
-- **Node.js & npm**: Ho creato un **plugin per Fastify** che mi ha salvato più volte. 👇
+- **Node.js & npm**: Ho creato un **plugin per Fastify** 👇
 - **Fastify**: Il framework web che rende le API super veloci! ⚡️ [Dai un'occhiata al mio plugin](https://github.com/fracabu/fastify-i18n-plugin).
 - **JavaScript**: A volte risolve i problemi, altre volte li crea, ma fa parte del gioco. 😅
 - **Python**: Il mio linguaggio preferito per automazione, machine learning e data science!

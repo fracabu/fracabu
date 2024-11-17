@@ -12,7 +12,7 @@ Sono uno sviluppatore appassionato, sempre alla ricerca di nuove tecnologie e sf
 Ecco le tecnologie che uso quotidianamente per dare vita alle mie idee (o tentare di farlo):
 
 - **Node.js & npm**: Ho creato un **plugin per Fastify** 👇
-- **Fastify**: Il framework web che rende le API super veloci! ⚡️ [Dai un'occhiata al mio plugin](https://github.com/fracabu/fastify-i18n-plugin).
+- **Fastify**: Il framework web che rende le API super veloci! ⚡️ [Dai un'occhiata al mio plugin](https://www.npmjs.com/package/fastify-i18n-plugin).
 - **JavaScript**: A volte risolve i problemi, altre volte li crea, ma fa parte del gioco. 😅
 - **Python**: Il mio linguaggio preferito per automazione, machine learning e data science!
 - **TensorFlow & Keras**: Utilizzo **TensorFlow** per addestrare modelli di rete neurale per vari progetti di machine learning.

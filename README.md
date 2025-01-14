@@ -1,7 +1,7 @@
 # Benvenuti nel mio angolo di caos creativo! 🎉👨‍💻
 
 Ciao! Sono Francesco e se ami/odi il codice sei nel posto giusto! 🚀 Ho raggiunto **100 repository** e sto festeggiando questo traguardo con progetti folli, idee innovative e un bel po' di codice. ☕️
-
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fracabu&show_icons=true&theme=radical)
 ### 🌟 Chi sono io?
 Sono uno sviluppatore appassionato, sempre alla ricerca di nuove tecnologie e sfide. Ho lavorato su vari progetti che spaziano dallo sviluppo di **plugin per Fastify** a sistemi di **machine learning** per la previsione dei segnali di trading, integrando tecnologie avanzate come **TensorFlow**, **MetaTrader 5**, e molto altro!
 

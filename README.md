@@ -49,7 +49,6 @@ Imparare non si ferma mai! Ecco su cosa sto lavorando:
 
 ### 📊 Le mie statistiche GitHub
 
-![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=fracabu&show_icons=true&theme=dark)
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fracabu&show_icons=true&theme=radical)
 ---
 

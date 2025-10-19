@@ -1,67 +1,50 @@
-# Benvenuti nel mio angolo di caos creativo! 🎉👨‍💻
+# Francesco (fracabu)
 
-Ciao! Sono Francesco e se ami/odi il codice sei nel posto giusto! 🚀 Ho raggiunto **100 repository** e sto festeggiando questo traguardo con progetti folli, idee innovative e un bel po' di codice. ☕️
-
-### 🌟 Chi sono io?
-Sono uno sviluppatore appassionato, sempre alla ricerca di nuove tecnologie e sfide. Ho lavorato su vari progetti che spaziano dallo sviluppo di **plugin per Fastify** a sistemi di **machine learning** per la previsione dei segnali di trading, integrando tecnologie avanzate come **TensorFlow**, **MetaTrader 5**, e molto altro!
+**Profilo:** Architetto di Soluzioni AI & Sviluppatore Full Stack
 
 ---
 
-### 🔧 Tecnologie con cui mi piace "smanettare"
+## Riepilogo Professionale
 
-Ecco le tecnologie che uso quotidianamente per dare vita alle mie idee (o tentare di farlo):
-
-- **Node.js & npm**: Ho creato un **plugin per Fastify** 👇
-- **Fastify**: Il framework web che rende le API super veloci! ⚡️ [Dai un'occhiata al mio plugin](https://www.npmjs.com/package/fastify-i18n-plugin).
-- **JavaScript**: A volte risolve i problemi, altre volte li crea, ma fa parte del gioco. 😅
-- **Python**: Il mio linguaggio preferito per automazione, machine learning e data science!
-- **TensorFlow & Keras**: Utilizzo **TensorFlow** per addestrare modelli di rete neurale per vari progetti di machine learning.
-- **MetaTrader 5 (MT5)**: Per creare sistemi di trading automatizzato e raccogliere dati di mercato in tempo reale.
-- **Flask**: Costruisco API REST per gestire operazioni di trading e machine learning.
-- **Scikit-learn**: Utilizzato per il preprocessing dei dati e per modelli di regressione lineare.
-- **Streamlit**: Perfetto per creare **dashboard interattive** e **visualizzazione dei dati** in Python. 📊 .
-- **Django & Flask**: Frameworks con cui ho costruito e servito applicazioni web robuste.
-- **Machine Learning & Regressione Lineare**: Ho addestrato modelli di previsione utilizzando tecniche avanzate di machine learning per vari scenari, tra cui il trading. 📈.
-- **Text-to-Speech (gTTS)**: Ho creato uno script che converte **file di testo** (TXT, DOCX, PDF) in **audio MP3** utilizzando **gTTS** e Python. 🎙️ [Vedi il progetto qui](link-al-progetto-text-to-speech).
+Sviluppatore Full Stack orientato all'innovazione, con una profonda specializzazione nella progettazione e implementazione di **sistemi multi-agente e soluzioni di automazione complessa** potenziate dall'Intelligenza Artificiale. Competenza specifica nell'integrazione di modelli linguistici avanzati, tra cui **Anthropic Claude** e **Google Gemini**, per automatizzare flussi di lavoro aziendali critici, simulare team di sviluppo e ottimizzare processi nel settore **Hospitality Tech**.
 
 ---
 
-### 🛠️ Progetti in evidenza
+## Competenze Tecniche
 
-Ecco alcuni dei progetti che mi rendono particolarmente orgoglioso:
-
-- **[Fastify-i18n-plugin](https://github.com/fracabu/fastify-i18n-plugin)**: Plugin per Fastify che aggiunge **supporto per traduzioni dinamiche e validazione delle traduzioni**. Indispensabile per chi gestisce un'app multi-lingua!
-- **Sistemi di trading automatizzati**: Ho sviluppato due sistemi di trading automatizzati che utilizzano **indicatori tecnici** e **modelli di machine learning** per generare segnali di trading e gestire operazioni su **MetaTrader 5**. Questi sistemi sono progettati per operare in modo completamente autonomo, inviando **email** e **alert sonori** in base a condizioni di mercato precise. Uno dei sistemi utilizza un approccio basato su **previsioni con modelli di rete neurale**, mentre l'altro combina diverse strategie basate su **indicatori tecnici** come **TSI**, **Stocastico** e **ATR**. Ho sviluppato anche un indicatore versione Custom del Relative Strenght Index uno degli indicatori più utilizzati e popolari che in pochi mesi ha già oltre 120 download in versione free puoi scaricarlo o visionarlo qui nella pagina del market [qui](https://www.mql5.com/it/market/product/122694?source=Site+Profile+Seller).
-- **Previsione con machine learning**: Ho sviluppato un modello di machine learning per la previsione di segnali basati su dati storici e indicatori tecnici.
-- **[Text-to-Speech Multi-Format Converter]([[link-al-progetto-text-to-speech](https://github.com/fracabu/TextToSpeechProject)]**: Ho creato uno script che converte file **TXT**, **PDF**, **DOCX** in audio **MP3** utilizzando **gTTS**. 🎧 Una soluzione pratica per creare contenuti audio da documenti scritti.
-
----
-
-### 📚 Cosa sto imparando ora
-
-Imparare non si ferma mai! Ecco su cosa sto lavorando:
-
-- **Flutter**: Per costruire app belle e funzionali.
-- **Modelli predittivi avanzati**: Sto esplorando nuovi metodi di machine learning per applicazioni varie, incluso il trading.
-- **Streamlit avanzato**: Per creare visualizzazioni di dati sempre più potenti e personalizzate.
+| Categoria | Competenze |
+| :--- | :--- |
+| **Linguaggi Prevalenti** | **TypeScript** (prevalente), JavaScript (ES6+), HTML, SQL. |
+| **Frameworks & Librerie** | **React**, **Vue** (Vue 3 PWA), Node.js, Bootstrap 5, Vite. |
+| **AI & Automazione** | **Anthropic Claude AI** (Agenti), **Google Gemini AI**, Analisi Dati AI-powered, Sviluppo di Sistemi Multi-Agente. |
+| **Database** | Progettazione di Database Relazionali (SQL), SQLite. |
+| **Strumenti** | GitHub Copilot, ESLint, iCal. |
 
 ---
 
-### 📊 Le mie statistiche GitHub
+## Esperienza e Progetti Chiave (Portfolio GitHub)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fracabu&show_icons=true&theme=radical)
+L'esperienza è dimostrata attraverso la leadership e lo sviluppo di repository pubblici ad alto impatto, con un forte accento sull'automazione e l'AI.
+
+### 1. Sviluppo di Agenti AI e Automazione Aziendale
+
+*   **Sistemi Multi-Agente per lo Sviluppo (`team-dev-agentsPublic`):** Progettazione di un sistema multi-agente AI basato su **Claude Code** che simula un intero team di sviluppo per fornire analisi esperte e parallele su architettura e strategia di prodotti SaaS.
+*   **Automazione di Listing e Promozione (`rcm-agent-claudePublic`):** Creazione di agenti AI specializzati di **Anthropic Claude** per automatizzare la creazione e l'ottimizzazione degli annunci di proprietà sulle principali piattaforme di prenotazione.
+*   **Gestione Autonoma dei Pagamenti (`Agent-PayMindPublic`):** Implementazione di un sistema di promemoria di pagamento AI che utilizza **agenti Claude** per analizzare in autonomia le fatture, generare messaggi personalizzati e gestire le risposte dei clienti.
+*   **Valutazioni AI-Powered (`sellsnapPublic`):** Sviluppo di un'applicazione web AI che fornisce valutazioni istantanee e professionali per articoli di seconda mano, inclusi prezzo e descrizione.
+*   **Strumenti di Contenuto AI (`generatore-di-prompt-craftPublic`):** Sviluppo di un generatore di prompt C.R.A.F.T. strutturati, potenziato da **Google Gemini** e sviluppato con React e TypeScript.
+
+### 2. Soluzioni per l'Ospitalità e la Conformità (Hospitality Tech)
+
+*   **Gestione Prenotazioni AI (`host-reservation-panelPublic`):** Applicazione web per host di Airbnb e Booking.com che offre gestione delle prenotazioni potenziata dall'AI, analisi dei dati e previsioni di mercato.
+*   **Automazione Rendicontazione (`AlloggifyPublic`):** Estensione di Chrome che sfrutta **Gemini AI** per estrarre dati dai documenti di identità, automatizzando i processi di rendicontazione per l'ospitalità italiana verso Alloggiati Web.
+*   **Strumenti di Prevenzione Overbooking (`overbooking-shield-toolPublic`):** Tool per rilevare e prevenire l'overbooking analizzando i calendari iCal.
+*   **Applicazioni per Tasse e Tariffe (`tassa-soggiorno-calculatorPublic`):** Web application in JavaScript per il calcolo automatico della tassa di soggiorno di Roma, supportando esenzioni ed esportazione dati.
+
+### 3. Applicazioni Gestionali e HR
+
+*   **Gestione Libro Paga (`caf-appPublic`):** Applicazione Vue.js e Node.js in TypeScript per la gestione completa del libro paga dei dipendenti, con gestione delle variabili e pubblicazione sicura delle buste paga.
+*   **Project Management (`app-gestione-progettiPublic`):** Piattaforma avanzata in TypeScript per sviluppatori e team, finalizzata all'organizzazione, tracciamento e automazione dei flussi di lavoro dei progetti.
+*   **Gestione Careregiver (`badanti-apify-reportPublic`):** Sistema che gestisce caregiver e famiglie, abbinando intelligentemente i profili tramite un algoritmo automatico.
+
 ---
-
-### 📫 Dove trovarmi
-
-Se vuoi parlare di codice, machine learning, sintesi vocale o come automatizzare praticamente tutto (o almeno provarci), contattami qui:
-
-- **Email**: fracabu@gmail.com
-- **LinkedIn**: [Profilo LinkedIn](https://linkedin.com/in/francesco-~-capurso-5801031a9/)
-
----
-
-Grazie per aver visitato il mio GitHub! 🎉 Spero che i miei progetti ti ispirino o almeno ti facciano sorridere (bug permettendo)! 😄
-
----
-

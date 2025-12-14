@@ -20,6 +20,8 @@
 ![Claude AI](https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Sora](https://img.shields.io/badge/Sora_2-FF6B6B?style=flat-square&logo=openai&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-34A853?style=flat-square&logo=google&logoColor=white)
 
 **Languages & Frameworks**
 
@@ -33,6 +35,13 @@
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Cognitive-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+**Deploy**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -52,10 +61,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**kie-ai-app**](https://github.com/fracabu/kie-ai-app) | 🎬 AI Video Generator - Promo videos with Sora 2 at $0.15/video | `Sora 2` `Claude AI` `Python` |
 | [**Agent-PayMind**](https://github.com/fracabu/Agent-PayMind) | Autonomous payment reminder system using Claude AI agents | `Claude AI` `TypeScript` |
 | [**agentic-workflow-architect**](https://github.com/fracabu/agentic-workflow-architect) | Design multi-agent systems from natural language | `Gemini` `React` |
 | [**team-dev-agents**](https://github.com/fracabu/team-dev-agentsPublic) | Virtual dev team with parallel AI analysis | `Claude AI` `Node.js` |
 | [**Alloggify**](https://github.com/fracabu/AlloggifyPublic) | Auto-extract ID data for hospitality compliance | `Gemini AI` `Chrome Extension` |
+| [**transcription-app**](https://github.com/fracabu/transcription-app) | Speech-to-Text & Text-to-Speech with Azure AI | `Azure Cognitive` `Vue.js` `Flask` |
 
 ---
 

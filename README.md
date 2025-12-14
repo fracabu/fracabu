@@ -1,36 +1,114 @@
-# Francesco (fracabu) – Architetto di Soluzioni AI & Sviluppatore Full Stack
-**Specializzato in sistemi multi-agente, automazione AI e integrazione di modelli linguistici avanzati (Anthropic Claude, Google Gemini) per flussi di lavoro aziendali e soluzioni Hospitality Tech.**
+<h1 align="center">Francesco Capurso</h1>
+<h3 align="center">AI Solutions Architect & Automation Engineer</h3>
+
+<p align="center">
+  <em>Building multi-agent systems with Claude AI & Gemini | Fastify plugins author | Workflow automation</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francesco-~-capurso-5801031a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~fracabu"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/fcwebdev"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🤖 Portfolio AI & Agenti Intelligenti
-Una selezione dei miei progetti più innovativi, dove l’**Intelligenza Artificiale** e gli **agenti intelligenti** risolvono problemi reali in ambiti critici come automazione aziendale, ospitalità e sviluppo software.
+## 🛠️ Tech Stack
+
+**AI & LLMs**
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+
+**Automation & Data**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-### 🔧 **Sistemi Multi-Agente & Orchestrazione AI**
-| Progetto | Descrizione | Tecnologie Chiave |
-|----------|------------|-------------------|
-| **[Agentic Workflow Architect](https://github.com/fracabu/agentic-workflow-architect)** | Piattaforma per la **progettazione rapida di sistemi multi-agente** tramite descrizione in linguaggio naturale. Genera definizioni di agenti e workflow complessi utilizzando **Google Gemini API**, ideale per automatizzare processi aziendali critici. | TypeScript, Google Gemini, React |
-| **[team-dev-agentsPublic](https://github.com/fracabu/team-dev-agentsPublic)** | Sistema multi-agente basato su **Anthropic Claude** che simula un **team di sviluppo virtuale**, fornendo analisi parallele su architettura, strategia e codice per prodotti SaaS. | Claude AI, TypeScript, Node.js |
-| **[Agent-PayMindPublic](https://github.com/fracabu/Agent-PayMindPublic)** | **Sistema autonomo di gestione pagamenti** che utilizza agenti Claude per analizzare fatture, generare promemoria personalizzati e gestire le risposte dei clienti, riducendo il carico amministrativo. | Claude AI, TypeScript, Node.js |
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fracabu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fracabu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🏨 **Automazione AI per l’Ospitalità (Hospitality Tech)**
-| Progetto | Descrizione | Tecnologie Chiave |
-|----------|------------|-------------------|
-| **[AlloggifyPublic](https://github.com/fracabu/AlloggifyPublic)** | **Estrazione automatica di dati da documenti di identità** tramite **Gemini AI**, con invio diretto al portale AlloggiatiWeb. Elimina l’inserimento manuale, garantendo conformità e precisione per strutture ricettive. | Gemini AI, TypeScript, Chrome Extension |
-| **[host-reservation-panelPublic](https://github.com/fracabu/host-reservation-panelPublic)** | Pannello di gestione prenotazioni per host (Airbnb/Booking.com) con **analisi dati AI**, previsioni di mercato e automazione dei flussi operativi. | React, TypeScript, AI Analytics |
-| **[rcm-agent-claudePublic](https://github.com/fracabu/rcm-agent-claudePublic)** | Agenti AI basati su **Claude** per l’**ottimizzazione automatica degli annunci** su piattaforme di prenotazione, massimizzando visibilità e conversioni. | Claude AI, TypeScript, Node.js |
+## 🤖 AI & Multi-Agent Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Agent-PayMind**](https://github.com/fracabu/Agent-PayMind) | Autonomous payment reminder system using Claude AI agents | `Claude AI` `TypeScript` |
+| [**agentic-workflow-architect**](https://github.com/fracabu/agentic-workflow-architect) | Design multi-agent systems from natural language | `Gemini` `React` |
+| [**team-dev-agents**](https://github.com/fracabu/team-dev-agentsPublic) | Virtual dev team with parallel AI analysis | `Claude AI` `Node.js` |
+| [**Alloggify**](https://github.com/fracabu/AlloggifyPublic) | Auto-extract ID data for hospitality compliance | `Gemini AI` `Chrome Extension` |
 
 ---
 
-### 📝 **Strumenti AI per Sviluppatori & Content Creation**
-| Progetto | Descrizione | Tecnologie Chiave |
-|----------|------------|-------------------|
-| **[generatore-di-prompt-craftPublic](https://github.com/fracabu/generatore-di-prompt-craftPublic)** | Generatore di **prompt strutturati C.R.A.F.T.** potenziato da **Google Gemini**, con interfaccia 3D interattiva. Ottimizza l’interazione con modelli linguistici avanzati. | React, TypeScript, Gemini AI |
-| **[github-repo-describer](https://github.com/fracabu/github-repo-describer)** | Applicazione React che **genera automaticamente descrizioni per repository GitHub** utilizzando **Gemini AI**, semplificando la documentazione dei progetti. | React, TypeScript, Gemini AI |
-| **[custom-gpt-social-manager-rcmapt](https://github.com/fracabu/custom-gpt-social-manager-rcmapt)** | **Custom GPT** per la gestione automatizzata dei social media di una casa vacanze a Roma, con pianificazione contenuti e interazione con gli ospiti. | GPT, TypeScript |
+## 📦 npm Packages
+
+Production-ready **Fastify plugins** for backend developers:
+
+| Package | Description |
+|---------|-------------|
+| [`@fracabu/fastify-api-key`](https://npmjs.com/package/@fracabu/fastify-api-key) | Complete API Key authentication with scopes |
+| [`fastify-cache-control`](https://npmjs.com/package/fastify-cache-control) | Declarative HTTP caching with CDN support |
+| [`fastify-rfc9457`](https://npmjs.com/package/fastify-rfc9457) | RFC 7807/9457 Problem Details for APIs |
+| [`fastify-webhook-verify`](https://npmjs.com/package/fastify-webhook-verify) | Multi-provider webhook signature verification |
+| [`node-test-expect`](https://npmjs.com/package/node-test-expect) | Jest-like assertions for Node.js native test runner |
+
+<p align="right">
+  <a href="https://www.npmjs.com/~fracabu">View all 7 packages →</a>
+</p>
 
 ---
+
+## 🏆 Kaggle & Data Science
+
+- **3 Datasets** published including [Cybersecurity Logs for Anomaly Detection](https://www.kaggle.com/datasets/fcwebdev/synthetic-cybersecurity-logs-for-anomaly-detection)
+- **11 Badges** earned
+- **Live Demo:** [Titanic ML Predictor](https://titanic-ml-kaggle.streamlit.app/) (Streamlit)
+
+<p align="right">
+  <a href="https://www.kaggle.com/fcwebdev">View Kaggle profile →</a>
+</p>
+
+---
+
+## 🚀 What I Do
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🤖 AI Agents          →  Claude, Gemini, Multi-Agent Systems  │
+│   🔌 Backend Plugins    →  Fastify ecosystem (npm packages)     │
+│   🏨 Hospitality Tech   →  Booking automation, guest management │
+│   ⚡ Workflow Automation →  n8n, custom integrations            │
+│   📊 Data Science       →  Kaggle, ML, Streamlit apps           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fracabu&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>Open to opportunities</strong> — Let's build something amazing together
+</p>

@@ -79,9 +79,23 @@ Production-ready **Fastify plugins** for backend developers:
 
 ## 🏆 Kaggle & Data Science
 
-- **3 Datasets** published including [Cybersecurity Logs for Anomaly Detection](https://www.kaggle.com/datasets/fcwebdev/synthetic-cybersecurity-logs-for-anomaly-detection)
-- **11 Badges** earned
-- **Live Demo:** [Titanic ML Predictor](https://titanic-ml-kaggle.streamlit.app/) (Streamlit)
+**Competitions:**
+
+| Competition | Result | Prize Pool |
+|-------------|--------|------------|
+| 🎯 **Gemini 3 Hackathon** | Submitted → [WorkflowLM](https://www.youtube.com/watch?v=bzdKBaQQVXo) | $500,000 |
+| 🥈 **Insurance Regression S4E12** | **430/2390 (Top 18%)** | Swag |
+| 📚 **Titanic ML** | 5 submissions | Learning |
+
+**Datasets & Stats:**
+
+| Dataset | Downloads | Views |
+|---------|-----------|-------|
+| [Cybersecurity Logs for Anomaly Detection](https://www.kaggle.com/datasets/fcwebdev/synthetic-cybersecurity-logs-for-anomaly-detection) | **483** | 2,840 |
+
+**11 Badges** earned · **14 Notebooks** · **4 Datasets** published
+
+🚀 **Live Demo:** [Titanic ML Predictor](https://titanic-ml-kaggle.streamlit.app/) (Streamlit)
 
 <p align="right">
   <a href="https://www.kaggle.com/fcwebdev">View Kaggle profile →</a>

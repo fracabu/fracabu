@@ -64,8 +64,8 @@
 | [**kie-ai-app**](https://github.com/fracabu/kie-ai-app) | 🎬 AI Video Generator - Promo videos with Sora 2 at $0.15/video | `Sora 2` `Claude AI` `Python` |
 | [**Agent-PayMind**](https://github.com/fracabu/Agent-PayMind) | Autonomous payment reminder system using Claude AI agents | `Claude AI` `TypeScript` |
 | [**agentic-workflow-architect**](https://github.com/fracabu/agentic-workflow-architect) | Design multi-agent systems from natural language | `Gemini` `React` |
-| [**team-dev-agents**](https://github.com/fracabu/team-dev-agentsPublic) | Virtual dev team with parallel AI analysis | `Claude AI` `Node.js` |
-| [**Alloggify**](https://github.com/fracabu/AlloggifyPublic) | Auto-extract ID data for hospitality compliance | `Gemini AI` `Chrome Extension` |
+| [**team-dev-agents**](https://github.com/fracabu/team-dev-agents) | Virtual dev team with parallel AI analysis | `Claude AI` `Node.js` |
+| [**Alloggify**](https://github.com/fracabu/Alloggify) | Auto-extract ID data for hospitality compliance | `Gemini AI` `Chrome Extension` |
 | [**transcription-app**](https://github.com/fracabu/transcription-app) | Speech-to-Text & Text-to-Speech with Azure AI | `Azure Cognitive` `Vue.js` `Flask` |
 
 ---

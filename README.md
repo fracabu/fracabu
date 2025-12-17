@@ -61,6 +61,8 @@ Claude AI · Gemini · n8n · Vercel · Streamlit
 
 ### 📈 Trading & MQL5
 
+<a href="https://www.mql5.com/en/market/product/122694"><img src="https://img.shields.io/badge/MQL5-CustomRSI50-00A8E8?style=flat-square&logo=metatrader5&logoColor=white" alt="MQL5" /></a>
+
 | Indicator | Description |
 |-----------|-------------|
 | [**CustomRSI50**](https://www.mql5.com/en/market/product/122694) | Free MT5 indicator with RSI level 50 crossover strategy. Worldwide downloads. |

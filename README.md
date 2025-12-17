@@ -59,6 +59,17 @@ Claude AI · Gemini · n8n · Vercel · Streamlit
 
 ---
 
+### 📈 Trading & MQL5
+
+| Indicator | Description |
+|-----------|-------------|
+| [**CustomRSI50**](https://www.mql5.com/en/market/product/122694) | Free MT5 indicator with RSI level 50 crossover strategy. Worldwide downloads. |
+
+<p align="right"><a href="https://www.mql5.com/en/users/lovingbull/seller">View MQL5 profile →</a></p>
+
+
+---
+
 ### 📊 Numbers
 
 <p align="center">

@@ -79,9 +79,9 @@ Claude AI · Gemini · n8n · Vercel · Streamlit
   <img src="https://streak-stats.demolab.com/?user=fracabu&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
-| npm packages | Kaggle ranking | Kaggle dataset downloads |
-|:------------:|:--------------:|:------------------------:|
-| **7** | **Top 18%** | **483+** |
+| npm packages | Kaggle ranking | Kaggle downloads | MQL5 downloads |
+|:------------:|:--------------:|:----------------:|:--------------:|
+| **7** | **Top 18%** | **483+** | **200+** |
 
 ---
 

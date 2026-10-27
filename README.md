@@ -18,6 +18,7 @@
 
 - **Client work** — an automated trading system for a private trader, and a website + automated CRM + Telegram bot for a nautical-equipment retailer.
 - **Claude Code systems** — custom skills, agents and hooks that run a real small business end to end (content, quizzes, lead handling, publishing).
+- **Content that pays** — an exam-prep Facebook page with AI-assisted, automated publishing, now monetized.
 - **LLM wikis** — Markdown "second brains" built and maintained by Claude, used as a verified knowledge base for exam-prep material.
 - **Automated pipelines** — daily jobs on GitHub Actions that publish pages, digests and Telegram plans with no server to maintain.
 

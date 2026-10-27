@@ -78,7 +78,7 @@ Claude Code · Claude API · Gemini · n8n · GitHub Actions · Vercel · Stream
 
 <p align="center">
   <a href="https://www.codecraft.it"><img src="https://img.shields.io/badge/Website-codecraft.it-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="codecraft.it" /></a>
-  <a href="https://linkedin.com/in/francesco-capurso-5801031a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/francesco-~-capurso-5801031a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://www.npmjs.com/~fracabu"><img src="https://img.shields.io/badge/npm-fracabu-CB3837?style=flat-square&logo=npm" alt="npm" /></a>
 </p>
 

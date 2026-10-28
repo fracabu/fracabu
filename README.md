@@ -49,7 +49,7 @@ Small, focused, fully typed libraries for Node.js and Fastify — try them all i
 | [`fastify-cache-control`](https://npmjs.com/package/fastify-cache-control) | Declarative Cache-Control headers |
 | [`fastify-i18n-plugin`](https://npmjs.com/package/fastify-i18n-plugin) | i18n for Fastify |
 | [`node-test-expect`](https://npmjs.com/package/node-test-expect) | Jest-like `expect()` for the native Node test runner |
-| [`env-checkup`](https://npmjs.com/package/env-checkup) | Validates `.env` against `.env.example` |
+| [`@fracabu/env-checkup`](https://npmjs.com/package/@fracabu/env-checkup) | Validates `.env` against `.env.example` |
 
 ---
 
